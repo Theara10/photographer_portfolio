@@ -1,10 +1,14 @@
 ### Getting Started
 
-First, run the development server:
+First, install packages:
 
 ```bash
 yarn
-# or
+```
+
+Then run
+
+```bash
 yarn start
 ```
 
