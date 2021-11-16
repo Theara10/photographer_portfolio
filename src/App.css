@@ -375,6 +375,12 @@
 
 /* ---------Mobile Responsive------- */
 @media only screen and (max-width: 600px) {
+  .home-page-bg {
+    height: 100vh;
+  }
+  .home-page-content {
+    margin-top: 120px;
+  }
   .home-page-content {
     padding-left: 20px;
     padding-right: 20px;
